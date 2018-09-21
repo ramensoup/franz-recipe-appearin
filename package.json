@@ -1,0 +1,17 @@
+{
+  "id": "appearin",
+  "name": "Appear.in",
+  "version": "1.0.0",
+  "description": "Appear.in",
+  "main": "index.js",
+  "author": "Stefano Pau <stefano.pau@welaika.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://appear.in/{teamId}",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "hasTeamId": true,
+    "urlInputPrefix": "https://appear.in/"
+  }
+}
